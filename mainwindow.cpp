@@ -36,7 +36,7 @@ MainWindow::MainWindow(QWidget *parent) :
 
     srand(QTime::currentTime().msec()); // Define a semente para a função rand baseada no tempo atual em milissegundos
 
-    QTimer::singleShot(50, this, &MainWindow::updateCircle); // Dispara a função updateCircle após 100 milissegundos
+    QTimer::singleShot(100, this, &MainWindow::updateCircle); // Dispara a função updateCircle após 100 milissegundos
 
 }
 
