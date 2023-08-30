@@ -31,7 +31,7 @@ git clone https://github.com/thaisaraujo2000/reaction_time_game.git
 
 ## Authors
 - [Morsinaldo de Azevedo Medeiros](https://github.com/Morsinaldo)
-- [Thaís de Araújo de Medeiros](https://github.com/thaisaraujo2000)
+- [Thaís de Araújo de Medeiros](https://github.com/thaisaraujom)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
