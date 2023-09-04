@@ -17,7 +17,7 @@ To play the game, follow these steps:
 
 1. Clone this repository to your local machine::
 ```
-git clone https://github.com/thaisaraujo2000/reaction_time_game.git
+git clone https://github.com/thaisaraujom/reaction_time_game.git
 ```
 2. Open the project in Qt Creator:
 - Open Qt Creator
